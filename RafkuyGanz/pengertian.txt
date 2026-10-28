@@ -1,0 +1,21 @@
+pengertian:
+jadi sebelum adanya ruby on the rails pembuatan aplikasi web membutuhkan Waktu lama karena developer harus menuliskan kode dari nol untuk hal2 dasar
+* menghubungkan database secara manual
+* membuat struktur routing URL satu persatu
+* menuliskan boilerplate code (kode pengulangan yg sama disetiap proyek)
+
+apa yg dimaksud "selesai" di era tersebut
+* bukan berarti kode hilang
+  "pemrograman manual"yg dimaksud adalah menulis kode mendasar yg tidak memberikan nilai tambahan langsung pada bisnis
+* *Framework & AI adalah Alat (Tools):* Mereka mempercepat proses penulisan kode, tetapi tidak bisa menentukan *apa* yang harus dibangun dan *bagaimana* sistem saling terhubung secara aman dan efisien.
+* *Dasar Algoritma Tetap Kunci:* Tanpa pemahaman mendasar tentang struktur data, basis data, dan logika pemrograman yang dipelajari di RPL, kamu tidak akan bisa memperbaiki bug, mengoptimalkan performa, atau mengaudit kode yang dihasilkan oleh framework/AI.
+* *Otomatisasi & Framework:* Dengan satu perintah di terminal (perintah scaffolding), RoR bisa langsung membuatkan struktur database, view, controller, dan routing hanya dalam hitungan detik.
+* *Fokus pada Logic Bisnis:* Developer tidak lagi menghabiskan 80% waktu untuk membuat fondasi dasar, melainkan langsung fokus menyelesaikan masalah utama aplikasi.
+
+DHH(David heinemeier hansson) menceritakan pengalamannya sendiri di mana ia berhasil mencatatkan produksi kode hingga 150.000 baris kode dalam kurun waktu satu bulan (Agustus 2026). Angka ini melonjak 60 kali lipat dibanding rata-rata produktivitas normalnya saat masih mengoding manual.
+
+
+
+pendapat saya
+Dulu orang belajar Rails karena ingin menciptakan. Ada kebanggaan waktu rails new terus jadi web yang bisa dipakai orang lain. Ngoding manual itu bukan soal ngetik, tapi soal berpikir. Kayak nulis.
+Rails ngajarin kita DRY - Don't Repeat Yourself. Convention over Configuration. Itu bukan cuma untuk koding, tapi untuk hidup. Jangan buang waktu untuk hal yang sudah ada solusinya. Fokus ke hal yang unik. Itu kenapa aku masih respect banget sama Rails sampai sekarang, walau udah gak hype.
